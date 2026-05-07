@@ -29,7 +29,7 @@ JFXMaze is a desktop maze game developed with Java 17, JavaFX 21, and Maven. The
 ## Installation and Running
 
 ```bash
-git clone https://github.com/<your-username>/JFXneonmaze.git
+git clone https://github.com/miaralbarghouth/JFXneonmaze.git
 cd JFXneonmaze
 mvn javafx:run
 ```
