@@ -1,4 +1,4 @@
-# JFXMaze - Futuristic Neon Labyrinth
+# JFXMaze - Neon Labyrinth
 
 JFXMaze is a desktop maze game developed with Java 17, JavaFX 21, and Maven. The project is organized for a university final submission: it includes clean source code, Maven configuration, required resources, authentication, local file processing, and clear documentation.
 
